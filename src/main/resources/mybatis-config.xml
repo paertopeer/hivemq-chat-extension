@@ -19,8 +19,8 @@
             <dataSource type="POOLED">
                 <property name="driver" value="com.mysql.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://localhost:3306/chat"/>
-                <property name="username" value="dev"/>
-                <property name="password" value="dev"/>
+                <property name="username" value="BDSQLDSH"/>
+                <property name="password" value="Dshsql2022@"/>
             </dataSource>
         </environment>
     </environments>
